@@ -40,9 +40,12 @@
      <Compile Include="Assets/SampleScenes/Scripts/LevelReset.cs" />
      <Compile Include="Assets/SampleScenes/Menu/Scripts/SceneAndURLLoader.cs" />
      <Compile Include="Assets/MyScripts/globalDynamics.cs" />
+     <Compile Include="Assets/MyScripts/ScaleFromAudioClip.cs" />
      <Compile Include="Assets/SampleScenes/Scripts/CameraSwitch.cs" />
+     <Compile Include="Assets/MyScripts/AudioLoudnessDetection.cs" />
      <Compile Include="Assets/SampleScenes/Menu/Scripts/MenuSceneLoader.cs" />
      <Compile Include="Assets/SampleScenes/Scripts/ParticleSceneControls.cs" />
+     <Compile Include="Assets/MyScripts/ScaleFromMicrophone.cs" />
      <Compile Include="Assets/SampleScenes/Menu/Scripts/PauseMenu.cs" />
      <Compile Include="Assets/SampleScenes/Scripts/PlaceTargetWithMouse.cs" />
      <None Include="Assets/SampleScenes/Shaders/Skybox-Procedural.shader" />
